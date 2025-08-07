@@ -7,6 +7,10 @@ The goal of this project is to design a Data Warehouse for a bank to support Bi 
 ## Architecture 
 <img src="system architecture.jpg">
 
+## Schema 
+- We designed a galaxy schema, that serves our use case
+<img src="Schema.png">
+
 ## Technology Used
 - SQL
 - SSMS
