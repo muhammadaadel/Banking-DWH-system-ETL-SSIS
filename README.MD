@@ -8,7 +8,7 @@ The goal of this project is to design a Data Warehouse for a bank to support Bi 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bca10b8e-3617-43c1-8b4f-fc2321369e0b" />
 
 ## OLTP Schema Diagram (source)
-<img width="903" height="600" alt="Image" src="https://github.com/user-attachments/assets/622c8f02-c016-4cf9-9d87-bdd0c28f4ca2" />
+<img width="1277" height="671" alt="Image" src="https://github.com/user-attachments/assets/82784f5b-dce4-48ad-8bed-2c451b0686a8" />
 
 ## OLAP Schema Diagram (destination) 
 - We designed a galaxy schema, that serves our use case
