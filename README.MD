@@ -7,9 +7,21 @@ The goal of this project is to design a Data Warehouse for a bank to support Bi 
 ## Architecture 
 <img src="system architecture.jpg">
 
-## Schema 
+## OLTP Schema Diagram (source)
+<img width="903" height="600" alt="Image" src="https://github.com/user-attachments/assets/622c8f02-c016-4cf9-9d87-bdd0c28f4ca2" />
+
+## OLAP Schema Diagram (destination) 
 - We designed a galaxy schema, that serves our use case
-<img src="Schema.png">
+<img src="OLAP Galaxy Schema Diagram.png">
+
+## Mapping
+- ATM_transactions_fact
+<img width="965" height="238" alt="Image" src="https://github.com/user-attachments/assets/40ab0809-91cc-4256-9bab-6dcf87361d13" />
+
+- Loans_fact
+<img width="964" height="261" alt="Image" src="https://github.com/user-attachments/assets/4b39f595-88ca-412a-a410-2f59f83a6c93" />
+
+-
 
 ## Insights
 - Here are some insights we derived from our data
